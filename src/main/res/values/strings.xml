@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Royal Baby Tracker</string>
+    <string name="question"><![CDATA[<small>IS THE</small><br/><big>ROYAL BABY</big><br/><small>BORN YET?</small>]]></string>
+    <string name="positive"><![CDATA[<small>YES</small><br/><big>HE</big><br/><small>IS</small>]]></string>
+    <string name="crown">Crown</string>
+</resources>
