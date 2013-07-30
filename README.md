@@ -1,4 +1,4 @@
 Royal Baby Tracker
 ==================
 
-An example of styled Android action bar with the AppCompat library.
+An example of a styled Android action bar with the AppCompat library.
